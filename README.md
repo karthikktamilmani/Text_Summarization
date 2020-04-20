@@ -13,7 +13,7 @@
   
 ### Prerequisites
 
-* Download the Glove pretrained model from here.
+* Download the Glove pretrained model from Stanford Nlp website [Stanford](http://nlp.stanford.edu/data/glove.840B.300d.zip).
 * Replace this line `gloveFile = file_path+'glove.840B.300d.txt'` accrodingly in the [NLP_Project.ipynb](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/NLP_Project.ipynb) file.
 * Download and add [BBC News Dataset](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/bbc_dataset.csv) to your storage and replace `file_path = '/content/drive/My Drive/NLP_DATA/'` according to your specifications in the [NLP_Project.ipynb](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/NLP_Project.ipynb) file.
   
