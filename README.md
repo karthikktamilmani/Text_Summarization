@@ -15,6 +15,8 @@
 
 * Download the Glove pretrained model from [Stanford Glove](http://nlp.stanford.edu/data/glove.840B.300d.zip).
 * Replace this line `gloveFile = file_path+'glove.840B.300d.txt'` accrodingly in the [NLP_Project.ipynb](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/NLP_Project.ipynb) file.
+* Download the FastText pretrained model from [FastText](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip).
+* Replace this line `model = FastText.load_fasttext_format(file_path+'wiki.en.bin')` accrodingly in the [NLP_Project.ipynb](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/NLP_Project.ipynb) file.
 * Download and add [BBC News Dataset](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/bbc_dataset.csv) to your storage and replace `file_path = '/content/drive/My Drive/NLP_DATA/'` according to your specifications in the [NLP_Project.ipynb](https://git.cs.dal.ca/courses/2020-winter/nlp/p-09/-/blob/master/Code/NLP_Project.ipynb) file.
   
 ### How to run the code
